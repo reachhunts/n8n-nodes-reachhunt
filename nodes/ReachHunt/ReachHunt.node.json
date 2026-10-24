@@ -1,5 +1,5 @@
 {
-	"node": "@reachhunt/n8n-nodes-reachhunt.reachHunt",
+	"node": "n8n-nodes-reachhunt.reachHunt",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
 	"categories": ["Sales", "Communication"],

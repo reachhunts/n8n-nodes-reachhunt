@@ -9,7 +9,7 @@ export interface MockResponse {
 export const NODE: INode = {
 	id: 'node-id',
 	name: 'ReachHunt',
-	type: '@reachhunt/n8n-nodes-reachhunt.reachHunt',
+	type: 'n8n-nodes-reachhunt.reachHunt',
 	typeVersion: 1,
 	position: [0, 0],
 	parameters: {},

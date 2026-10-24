@@ -1,5 +1,5 @@
 {
-	"name": "@reachhunt/n8n-nodes-reachhunt",
+	"name": "n8n-nodes-reachhunt",
 	"version": "0.1.0",
 	"description": "n8n nodes for ReachHunt: run DM outreach on X and LinkedIn from your workflows",
 	"license": "MIT",

@@ -59,14 +59,14 @@ Every resource works on X and LinkedIn. Accounts from both networks show up in t
 In your n8n instance, go to **Settings → Community Nodes** and install:
 
 ```
-@reachhunt/n8n-nodes-reachhunt
+n8n-nodes-reachhunt
 ```
 
 Or install manually:
 
 ```bash
 cd ~/.n8n/nodes
-npm install @reachhunt/n8n-nodes-reachhunt
+npm install n8n-nodes-reachhunt
 ```
 
 ### 3. Add Your Credentials
