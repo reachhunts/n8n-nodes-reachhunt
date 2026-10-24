@@ -16,7 +16,7 @@ export class ReachHuntApi implements ICredentialType {
 		dark: 'file:../nodes/ReachHunt/reachhunt.dark.svg',
 	};
 
-	documentationUrl = 'https://github.com/reachhunts/n8n-nodes-reachhunt#credentials';
+	documentationUrl = 'https://github.com/reachhunts/n8n-nodes-reachhunt#3-add-your-credentials';
 
 	properties: INodeProperties[] = [
 		{
