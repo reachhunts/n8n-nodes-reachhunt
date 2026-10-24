@@ -1,0 +1,19 @@
+{
+	"node": "@reachhunt/n8n-nodes-reachhunt.reachHunt",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Sales", "Communication"],
+	"alias": ["linkedin", "x", "twitter", "dm", "outreach", "campaign", "lead", "inbox"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/reachhunts/n8n-nodes-reachhunt#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/reachhunts/n8n-nodes-reachhunt#readme"
+			}
+		]
+	}
+}
