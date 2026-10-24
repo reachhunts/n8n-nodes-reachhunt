@@ -47,7 +47,7 @@ export class ReachHuntTrigger implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'ReachHunt Trigger',
 		name: 'reachHuntTrigger',
-		icon: { light: 'file:../ReachHunt/reachhunt.svg', dark: 'file:../ReachHunt/reachhunt.dark.svg' },
+		icon: 'file:../ReachHunt/reachhunt.svg',
 		group: ['trigger'],
 		version: 1,
 		subtitle: '={{$parameter["events"].join(", ")}}',

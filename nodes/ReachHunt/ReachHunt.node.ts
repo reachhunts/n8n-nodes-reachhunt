@@ -14,7 +14,7 @@ export class ReachHunt implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'ReachHunt',
 		name: 'reachHunt',
-		icon: { light: 'file:reachhunt.svg', dark: 'file:reachhunt.dark.svg' },
+		icon: 'file:reachhunt.svg',
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',

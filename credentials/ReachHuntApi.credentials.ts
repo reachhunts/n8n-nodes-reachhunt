@@ -11,10 +11,7 @@ export class ReachHuntApi implements ICredentialType {
 
 	displayName = 'ReachHunt API';
 
-	icon: Icon = {
-		light: 'file:../nodes/ReachHunt/reachhunt.svg',
-		dark: 'file:../nodes/ReachHunt/reachhunt.dark.svg',
-	};
+	icon: Icon = 'file:../nodes/ReachHunt/reachhunt.svg';
 
 	documentationUrl = 'https://github.com/reachhunts/n8n-nodes-reachhunt#3-add-your-credentials';
 
